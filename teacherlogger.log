@@ -1,0 +1,209 @@
+2021-06-25 13:37:56,634 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-06-25 13:37:57,227 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 13:37:57,261 INFO werkzeug MainThread :  * Debugger PIN: 616-180-978
+2021-06-25 13:37:57,291 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)
+2021-06-25 13:38:50,704 INFO werkzeug Thread-5 : 127.0.0.1 - - [25/Jun/2021 13:38:50] "[37mGET /students HTTP/1.1[0m" 200 -
+2021-06-25 13:38:59,460 INFO app.utils.settings Thread-6 : Info level log
+2021-06-25 13:38:59,460 WARNING app.utils.settings Thread-6 : Waring level log
+2021-06-25 13:38:59,463 INFO werkzeug Thread-6 : 127.0.0.1 - - [25/Jun/2021 13:38:59] "[37mGET /teachers HTTP/1.1[0m" 200 -
+2021-06-25 13:39:58,311 INFO app.utils.settings Thread-7 : Info level log
+2021-06-25 13:39:58,312 WARNING app.utils.settings Thread-7 : Waring level log
+2021-06-25 13:39:58,334 INFO werkzeug Thread-7 : 127.0.0.1 - - [25/Jun/2021 13:39:58] "[37mPOST /teachers HTTP/1.1[0m" 201 -
+2021-06-25 13:40:14,066 INFO app.utils.settings Thread-8 : Info level log
+2021-06-25 13:40:14,066 WARNING app.utils.settings Thread-8 : Waring level log
+2021-06-25 13:40:14,084 INFO werkzeug Thread-8 : 127.0.0.1 - - [25/Jun/2021 13:40:14] "[37mGET /teachers HTTP/1.1[0m" 200 -
+2021-06-25 13:52:44,154 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\services\\student\\teacherService.py', reloading
+2021-06-25 13:52:44,155 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\services\\student\\teacherService.py', reloading
+2021-06-25 13:52:44,156 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\services\\student\\teacherService.py', reloading
+2021-06-25 13:52:45,217 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-06-25 13:52:45,839 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 13:52:45,854 INFO werkzeug MainThread :  * Debugger PIN: 616-180-978
+2021-06-25 13:52:45,903 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)
+2021-06-25 13:52:50,152 INFO app.utils.settings Thread-5 : Fetched all the details of the teacher
+2021-06-25 13:52:50,153 WARNING app.utils.settings Thread-5 : Could not fetch the details
+2021-06-25 13:52:50,157 INFO werkzeug Thread-5 : 127.0.0.1 - - [25/Jun/2021 13:52:50] "[37mGET /teachers HTTP/1.1[0m" 200 -
+2021-06-25 13:53:51,795 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\services\\student\\studentService.py', reloading
+2021-06-25 13:53:52,858 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-06-25 13:53:53,504 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 13:53:53,513 INFO werkzeug MainThread :  * Debugger PIN: 616-180-978
+2021-06-25 13:53:53,541 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)
+2021-06-25 13:56:20,615 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\services\\student\\studentService.py', reloading
+2021-06-25 13:56:20,616 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\services\\student\\studentService.py', reloading
+2021-06-25 13:56:21,668 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-06-25 13:56:22,397 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 13:56:22,407 INFO werkzeug MainThread :  * Debugger PIN: 616-180-978
+2021-06-25 13:56:22,438 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)
+2021-06-25 13:56:44,285 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\services\\student\\studentService.py', reloading
+2021-06-25 13:56:44,285 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\services\\student\\studentService.py', reloading
+2021-06-25 13:56:44,286 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\services\\student\\studentService.py', reloading
+2021-06-25 13:56:44,286 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\services\\student\\studentService.py', reloading
+2021-06-25 13:56:45,339 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-06-25 13:56:45,963 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 13:56:45,973 INFO werkzeug MainThread :  * Debugger PIN: 616-180-978
+2021-06-25 13:56:45,999 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)
+2021-06-25 13:57:24,109 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-06-25 13:57:24,708 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 13:57:24,717 INFO werkzeug MainThread :  * Debugger PIN: 616-180-978
+2021-06-25 13:57:24,742 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)
+2021-06-25 13:57:33,069 INFO app.utils.settings Thread-5 : Fetched all the details of the students
+2021-06-25 13:57:33,069 WARNING app.utils.settings Thread-5 : Could not fetch the student
+2021-06-25 13:57:33,073 INFO werkzeug Thread-5 : 127.0.0.1 - - [25/Jun/2021 13:57:33] "[37mGET /students HTTP/1.1[0m" 200 -
+2021-06-25 13:58:38,463 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-06-25 13:58:39,106 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 13:58:39,116 INFO werkzeug MainThread :  * Debugger PIN: 616-180-978
+2021-06-25 13:58:39,144 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)
+2021-06-25 13:58:57,284 INFO app.utils.settings Thread-5 : Fetched all the details of the students
+2021-06-25 13:58:57,284 WARNING app.utils.settings Thread-5 : Could not fetch the student
+2021-06-25 13:58:57,291 INFO werkzeug Thread-5 : 127.0.0.1 - - [25/Jun/2021 13:58:57] "[37mGET /students HTTP/1.1[0m" 200 -
+2021-06-25 13:59:35,280 INFO werkzeug Thread-6 : 127.0.0.1 - - [25/Jun/2021 13:59:35] "[35m[1mGET /students/1 HTTP/1.1[0m" 500 -
+2021-06-25 14:00:09,425 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\services\\student\\studentService.py', reloading
+2021-06-25 14:00:09,425 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\services\\student\\studentService.py', reloading
+2021-06-25 14:00:09,426 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\services\\student\\studentService.py', reloading
+2021-06-25 14:00:10,483 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-06-25 14:00:11,250 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 14:00:11,261 INFO werkzeug MainThread :  * Debugger PIN: 616-180-978
+2021-06-25 14:00:11,290 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)
+2021-06-25 14:00:40,453 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\services\\student\\teacherService.py', reloading
+2021-06-25 14:00:40,454 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\services\\student\\teacherService.py', reloading
+2021-06-25 14:00:40,454 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\services\\student\\teacherService.py', reloading
+2021-06-25 14:00:41,502 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-06-25 14:00:42,146 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 14:00:42,155 INFO werkzeug MainThread :  * Debugger PIN: 616-180-978
+2021-06-25 14:00:42,180 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)
+2021-06-25 14:04:29,296 INFO app.utils.settings Thread-5 : Fetched the details of the student with id 1
+2021-06-25 14:04:29,296 WARNING app.utils.settings Thread-5 : Waring level log
+2021-06-25 14:04:29,314 INFO werkzeug Thread-5 : 127.0.0.1 - - [25/Jun/2021 14:04:29] "[37mGET /students/1 HTTP/1.1[0m" 200 -
+2021-06-27 08:53:54,300 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-06-27 08:53:54,990 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-27 08:53:55,010 INFO werkzeug MainThread :  * Debugger PIN: 616-180-978
+2021-06-27 08:53:55,041 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)
+2021-06-27 08:55:15,042 INFO werkzeug Thread-5 : 127.0.0.1 - - [27/Jun/2021 08:55:15] "[35m[1mPOST /students HTTP/1.1[0m" 500 -
+2021-06-27 08:55:28,830 INFO app.utils.settings Thread-6 : Added a new student
+2021-06-27 08:55:28,830 WARNING app.utils.settings Thread-6 : Could not add a new student
+2021-06-27 08:55:28,846 INFO werkzeug Thread-6 : 127.0.0.1 - - [27/Jun/2021 08:55:28] "[37mPOST /students HTTP/1.1[0m" 201 -
+2021-06-27 08:55:34,497 INFO app.utils.settings Thread-7 : Fetched all the details of the students
+2021-06-27 08:55:34,497 WARNING app.utils.settings Thread-7 : Could not fetch the student
+2021-06-27 08:55:34,513 INFO werkzeug Thread-7 : 127.0.0.1 - - [27/Jun/2021 08:55:34] "[37mGET /students HTTP/1.1[0m" 200 -
+2021-06-27 08:56:12,302 INFO app.utils.settings Thread-8 : Fetched all the details of the students
+2021-06-27 08:56:12,302 WARNING app.utils.settings Thread-8 : Could not fetch the student
+2021-06-27 08:56:12,304 INFO werkzeug Thread-8 : 127.0.0.1 - - [27/Jun/2021 08:56:12] "[37mGET /students HTTP/1.1[0m" 200 -
+2021-06-27 08:56:18,548 INFO werkzeug Thread-9 : 127.0.0.1 - - [27/Jun/2021 08:56:18] "[35m[1mPOST /students HTTP/1.1[0m" 500 -
+2021-06-27 08:56:49,050 INFO app.utils.settings Thread-10 : Added a new student
+2021-06-27 08:56:49,050 WARNING app.utils.settings Thread-10 : Could not add a new student
+2021-06-27 08:56:49,068 INFO werkzeug Thread-10 : 127.0.0.1 - - [27/Jun/2021 08:56:49] "[37mPOST /students HTTP/1.1[0m" 201 -
+2021-06-27 08:56:54,344 INFO app.utils.settings Thread-11 : Fetched all the details of the students
+2021-06-27 08:56:54,344 WARNING app.utils.settings Thread-11 : Could not fetch the student
+2021-06-27 08:56:54,375 INFO werkzeug Thread-11 : 127.0.0.1 - - [27/Jun/2021 08:56:54] "[37mGET /students HTTP/1.1[0m" 200 -
+2021-06-27 09:11:45,595 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\helper\\validator\\schema\\teacher.py', reloading
+2021-06-27 09:11:46,669 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-06-27 09:11:47,381 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-27 09:11:47,391 INFO werkzeug MainThread :  * Debugger PIN: 616-180-978
+2021-06-27 09:11:47,415 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)
+2021-06-27 09:12:34,969 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\helper\\validator\\schema\\teacher.py', reloading
+2021-06-27 09:12:34,970 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\helper\\validator\\schema\\teacher.py', reloading
+2021-06-27 09:12:36,037 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-06-27 09:12:36,749 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-27 09:12:36,759 INFO werkzeug MainThread :  * Debugger PIN: 616-180-978
+2021-06-27 09:12:36,785 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)
+2021-06-27 09:14:34,485 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\routes\\teacherRoute.py', reloading
+2021-06-27 09:14:34,485 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\routes\\teacherRoute.py', reloading
+2021-06-27 09:14:34,486 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\routes\\teacherRoute.py', reloading
+2021-06-27 09:14:34,488 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\routes\\teacherRoute.py', reloading
+2021-06-27 09:14:35,586 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-06-27 09:14:36,362 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-27 09:14:36,378 INFO werkzeug MainThread :  * Debugger PIN: 616-180-978
+2021-06-27 09:14:36,409 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)
+2021-06-27 09:15:01,859 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\routes\\teacherRoute.py', reloading
+2021-06-27 09:15:01,859 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\routes\\teacherRoute.py', reloading
+2021-06-27 09:15:01,860 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\routes\\teacherRoute.py', reloading
+2021-06-27 09:15:02,908 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-06-27 09:15:03,617 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-27 09:15:03,626 INFO werkzeug MainThread :  * Debugger PIN: 616-180-978
+2021-06-27 09:15:03,652 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)
+2021-06-27 09:15:18,799 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-06-27 09:15:19,473 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-27 09:15:19,482 INFO werkzeug MainThread :  * Debugger PIN: 616-180-978
+2021-06-27 09:15:19,508 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)
+2021-06-27 09:15:24,617 INFO app.utils.settings Thread-5 : Fetched all the details of the students
+2021-06-27 09:15:24,617 WARNING app.utils.settings Thread-5 : Could not fetch the student
+2021-06-27 09:15:24,621 INFO werkzeug Thread-5 : 127.0.0.1 - - [27/Jun/2021 09:15:24] "[37mGET /students HTTP/1.1[0m" 200 -
+2021-06-27 09:15:28,873 INFO app.utils.settings Thread-6 : Fetched all the details of the teacher
+2021-06-27 09:15:28,874 WARNING app.utils.settings Thread-6 : Could not fetch the details
+2021-06-27 09:15:28,878 INFO werkzeug Thread-6 : 127.0.0.1 - - [27/Jun/2021 09:15:28] "[37mGET /teachers HTTP/1.1[0m" 200 -
+2021-06-27 09:15:58,744 INFO app.utils.settings Thread-7 : Fetched all the details of the teacher
+2021-06-27 09:15:58,744 WARNING app.utils.settings Thread-7 : Could not fetch the details
+2021-06-27 09:15:58,747 INFO werkzeug Thread-7 : 127.0.0.1 - - [27/Jun/2021 09:15:58] "[37mGET /teachers HTTP/1.1[0m" 200 -
+2021-06-27 09:16:03,681 INFO werkzeug Thread-8 : 127.0.0.1 - - [27/Jun/2021 09:16:03] "[35m[1mPOST /teachers HTTP/1.1[0m" 500 -
+2021-06-27 09:16:16,209 INFO app.utils.settings Thread-9 : Added a new teacher
+2021-06-27 09:16:16,209 WARNING app.utils.settings Thread-9 : Could not add a new teacher
+2021-06-27 09:16:16,232 INFO werkzeug Thread-9 : 127.0.0.1 - - [27/Jun/2021 09:16:16] "[37mPOST /teachers HTTP/1.1[0m" 201 -
+2021-06-27 09:16:25,488 INFO app.utils.settings Thread-10 : Fetched all the details of the teacher
+2021-06-27 09:16:25,488 WARNING app.utils.settings Thread-10 : Could not fetch the details
+2021-06-27 09:16:25,501 INFO werkzeug Thread-10 : 127.0.0.1 - - [27/Jun/2021 09:16:25] "[37mGET /teachers HTTP/1.1[0m" 200 -
+2021-06-27 09:16:40,838 INFO app.utils.settings Thread-11 : Fetched all the details of the teacher
+2021-06-27 09:16:40,838 WARNING app.utils.settings Thread-11 : Could not fetch the details
+2021-06-27 09:16:40,841 INFO werkzeug Thread-11 : 127.0.0.1 - - [27/Jun/2021 09:16:40] "[37mGET /teachers HTTP/1.1[0m" 200 -
+2021-06-27 09:16:45,469 INFO werkzeug Thread-12 : 127.0.0.1 - - [27/Jun/2021 09:16:45] "[31m[1mPOST /teachers HTTP/1.1[0m" 400 -
+2021-06-27 09:17:00,750 INFO app.utils.settings Thread-13 : Fetched all the details of the teacher
+2021-06-27 09:17:00,750 WARNING app.utils.settings Thread-13 : Could not fetch the details
+2021-06-27 09:17:00,772 INFO werkzeug Thread-13 : 127.0.0.1 - - [27/Jun/2021 09:17:00] "[37mGET /teachers HTTP/1.1[0m" 200 -
+2021-06-27 09:17:13,102 INFO app.utils.settings Thread-14 : Teacher deleted with id 3
+2021-06-27 09:17:13,102 WARNING app.utils.settings Thread-14 : Waring level log
+2021-06-27 09:17:13,120 INFO werkzeug Thread-14 : 127.0.0.1 - - [27/Jun/2021 09:17:13] "[37mDELETE /teachers/3 HTTP/1.1[0m" 200 -
+2021-06-27 09:17:17,245 INFO app.utils.settings Thread-15 : Fetched the details of the teacher with id 3
+2021-06-27 09:17:17,245 WARNING app.utils.settings Thread-15 : Waring level log
+2021-06-27 09:17:17,291 INFO werkzeug Thread-15 : 127.0.0.1 - - [27/Jun/2021 09:17:17] "[35m[1mGET /teachers/3 HTTP/1.1[0m" 500 -
+2021-06-27 09:17:25,636 INFO app.utils.settings Thread-16 : Fetched all the details of the teacher
+2021-06-27 09:17:25,636 WARNING app.utils.settings Thread-16 : Could not fetch the details
+2021-06-27 09:17:25,640 INFO werkzeug Thread-16 : 127.0.0.1 - - [27/Jun/2021 09:17:25] "[37mGET /teachers HTTP/1.1[0m" 200 -
+2021-06-28 08:55:17,878 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-06-28 08:55:18,539 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-28 08:55:18,566 INFO werkzeug MainThread :  * Debugger PIN: 616-180-978
+2021-06-28 08:55:18,594 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)
+2021-06-28 08:55:43,223 INFO app.utils.settings Thread-5 : Fetched all the details of the students
+2021-06-28 08:55:43,223 WARNING app.utils.settings Thread-5 : Could not fetch the student
+2021-06-28 08:55:43,244 INFO werkzeug Thread-5 : 127.0.0.1 - - [28/Jun/2021 08:55:43] "[35m[1mGET /students HTTP/1.1[0m" 500 -
+2021-06-28 08:55:58,194 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\routes\\studentRoutes.py', reloading
+2021-06-28 08:55:58,194 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\routes\\studentRoutes.py', reloading
+2021-06-28 08:55:58,195 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\routes\\studentRoutes.py', reloading
+2021-06-28 08:56:00,029 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-06-28 08:56:00,747 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-28 08:56:00,756 INFO werkzeug MainThread :  * Debugger PIN: 616-180-978
+2021-06-28 08:56:00,783 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)
+2021-06-28 08:56:01,844 INFO app.utils.settings Thread-5 : Fetched all the details of the students
+2021-06-28 08:56:01,844 WARNING app.utils.settings Thread-5 : Could not fetch the student
+2021-06-28 08:56:01,853 INFO werkzeug Thread-5 : 127.0.0.1 - - [28/Jun/2021 08:56:01] "[35m[1mGET /students HTTP/1.1[0m" 500 -
+2021-06-28 08:56:54,483 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\routes\\studentRoutes.py', reloading
+2021-06-28 08:56:54,483 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\routes\\studentRoutes.py', reloading
+2021-06-28 08:56:54,483 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\routes\\studentRoutes.py', reloading
+2021-06-28 08:56:54,484 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\routes\\studentRoutes.py', reloading
+2021-06-28 08:56:55,618 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-06-28 08:56:56,395 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-28 08:56:56,406 INFO werkzeug MainThread :  * Debugger PIN: 616-180-978
+2021-06-28 08:56:56,432 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)
+2021-06-28 08:56:58,194 INFO werkzeug Thread-5 : 127.0.0.1 - - [28/Jun/2021 08:56:58] "[35m[1mPOST /students HTTP/1.1[0m" 500 -
+2021-06-28 08:57:04,595 INFO app.utils.settings Thread-6 : Fetched all the details of the students
+2021-06-28 08:57:04,595 WARNING app.utils.settings Thread-6 : Could not fetch the student
+2021-06-28 08:57:04,606 INFO werkzeug Thread-6 : 127.0.0.1 - - [28/Jun/2021 08:57:04] "[35m[1mGET /students HTTP/1.1[0m" 500 -
+2021-06-28 08:57:12,648 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\routes\\studentRoutes.py', reloading
+2021-06-28 08:57:12,649 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\routes\\studentRoutes.py', reloading
+2021-06-28 08:57:12,650 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\routes\\studentRoutes.py', reloading
+2021-06-28 08:57:12,651 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\routes\\studentRoutes.py', reloading
+2021-06-28 08:57:13,704 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-06-28 08:57:14,390 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-28 08:57:14,400 INFO werkzeug MainThread :  * Debugger PIN: 616-180-978
+2021-06-28 08:57:14,426 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)
+2021-06-28 08:57:18,183 INFO app.utils.settings Thread-5 : Fetched all the details of the students
+2021-06-28 08:57:18,183 WARNING app.utils.settings Thread-5 : Could not fetch the student
+2021-06-28 08:57:18,190 INFO werkzeug Thread-5 : 127.0.0.1 - - [28/Jun/2021 08:57:18] "[37mGET /students HTTP/1.1[0m" 200 -
+2021-06-28 08:57:37,820 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\routes\\studentRoutes.py', reloading
+2021-06-28 08:57:37,821 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\routes\\studentRoutes.py', reloading
+2021-06-28 08:57:37,821 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\routes\\studentRoutes.py', reloading
+2021-06-28 08:57:37,821 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\MSaiTeja\\Downloads\\Flask-Movie-REST-API-main\\app\\routes\\studentRoutes.py', reloading
+2021-06-28 08:57:38,886 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-06-28 08:57:39,702 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-28 08:57:39,714 INFO werkzeug MainThread :  * Debugger PIN: 616-180-978
+2021-06-28 08:57:39,748 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)
+2021-06-28 08:57:41,087 INFO app.utils.settings Thread-5 : Fetched all the details of the students
+2021-06-28 08:57:41,087 WARNING app.utils.settings Thread-5 : Could not fetch the student
+2021-06-28 08:57:41,093 INFO werkzeug Thread-5 : 127.0.0.1 - - [28/Jun/2021 08:57:41] "[37mGET /students HTTP/1.1[0m" 200 -
